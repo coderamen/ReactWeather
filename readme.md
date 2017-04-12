@@ -1,2 +1,1 @@
-// REVIEW:
-    My first React app for Weather
+My first React app for Weather
