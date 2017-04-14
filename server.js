@@ -1,3 +1,7 @@
+import './app.css';
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/css/bootstrap-theme.css';
+
 var express = require('express');
 
 // Create our app

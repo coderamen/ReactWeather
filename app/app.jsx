@@ -1,4 +1,6 @@
-var React = require('react');
+import React, { Component } from 'react';
+import { Navbar, Jumbotron, Button } from 'react-bootstrap';
+
 var ReactDOM = require('react-dom');
 var {Route, Router, IndexRoute, hashHistory} = require('react-router');
 var Main = require('Main');
