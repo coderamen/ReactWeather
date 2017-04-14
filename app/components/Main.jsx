@@ -5,7 +5,7 @@ var Main = React.createClass ({
 
   render: function () {
     return (
-      <div>
+      <div className="testBG">
         <Nav/>
         <h2>Main Components</h2>
         {this.props.children}
